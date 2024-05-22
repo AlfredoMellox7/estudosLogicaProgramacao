@@ -1,0 +1,14 @@
+C:\bootcampDio\logicaProgramacao\bin\Debug\net8.0\logicaProgramacao.exe
+C:\bootcampDio\logicaProgramacao\bin\Debug\net8.0\logicaProgramacao.deps.json
+C:\bootcampDio\logicaProgramacao\bin\Debug\net8.0\logicaProgramacao.runtimeconfig.json
+C:\bootcampDio\logicaProgramacao\bin\Debug\net8.0\logicaProgramacao.dll
+C:\bootcampDio\logicaProgramacao\bin\Debug\net8.0\logicaProgramacao.pdb
+C:\bootcampDio\logicaProgramacao\obj\Debug\net8.0\logicaProgramacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\bootcampDio\logicaProgramacao\obj\Debug\net8.0\logicaProgramacao.AssemblyInfoInputs.cache
+C:\bootcampDio\logicaProgramacao\obj\Debug\net8.0\logicaProgramacao.AssemblyInfo.cs
+C:\bootcampDio\logicaProgramacao\obj\Debug\net8.0\logicaProgramacao.csproj.CoreCompileInputs.cache
+C:\bootcampDio\logicaProgramacao\obj\Debug\net8.0\logicaProgramacao.dll
+C:\bootcampDio\logicaProgramacao\obj\Debug\net8.0\refint\logicaProgramacao.dll
+C:\bootcampDio\logicaProgramacao\obj\Debug\net8.0\logicaProgramacao.pdb
+C:\bootcampDio\logicaProgramacao\obj\Debug\net8.0\logicaProgramacao.genruntimeconfig.cache
+C:\bootcampDio\logicaProgramacao\obj\Debug\net8.0\ref\logicaProgramacao.dll

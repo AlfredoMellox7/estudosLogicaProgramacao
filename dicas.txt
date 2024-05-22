@@ -1,0 +1,15 @@
+Ao criar o switch case não esquuecer o break ao final da opção. Ex :
+case 1:
+Console.WriteLine("Certo, obrigado");
+break;
+
+Default é semelhante ao ELSE . EX :
+Case 1:
+blablabla
+
+Case 2:
+blablabla
+
+Default:
+Console.WriteLine("blébléblé"); Se nenhuma das outras opções for váilda então é Default .
+
